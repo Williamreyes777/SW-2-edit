@@ -1,0 +1,27 @@
+td {
+	background-color:antiquewhite;
+	border-width: 20;
+	border-style: dotted;
+	border-color: darkblue;
+	margin: auto;
+	padding: 10px;
+	opacity: .9;
+	}
+.class1 {
+	font-family: Gadugi;
+}
+
+th { 
+	background-color:antiquewhite;
+	border-width:20;
+	border-style: dotted;
+	border-color: darkblue;
+	margin: auto;
+	padding: 10px;
+	opacity: .9;
+ }
+ body {
+		 	background-image: url(https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Dog-main_gdcdzd.jpg);
+		 	background-repeat: no-repeat;
+		 	background-size: 100%;
+		 }
